@@ -1,0 +1,11 @@
+.active-menu-item {
+  border-color: #3b82f6;
+  background-color: #dbeafe;
+  color: #1e40af;
+}
+.active-menu-item span {
+  color: #1e40af;
+}
+.active-menu-item i {
+  color: #1e40af;
+}
